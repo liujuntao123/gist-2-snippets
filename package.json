@@ -1,13 +1,13 @@
 {
   "name": "gist-2-snippets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generate code-snippets by gist",
-  "main": "index.mjs",
+  "main": "./src/index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "gist-2-snippets": "index.mjs"
+    "gist-2-snippets": "./src/index.mjs"
   },
   "author": "liujuntao123",
   "license": "ISC",
